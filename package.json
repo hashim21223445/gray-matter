@@ -51,7 +51,7 @@
     "mocha": "^10.2.0",
     "toml": "^2.3.3",
     "vinyl": "^2.1.0",
-    "write": "^1.0.3"
+    "write": "^2.0.0"
   },
   "keywords": [
     "assemble",
